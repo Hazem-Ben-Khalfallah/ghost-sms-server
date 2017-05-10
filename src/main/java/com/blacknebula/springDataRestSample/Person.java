@@ -1,4 +1,4 @@
-package hello;
+package com.blacknebula.springDataRestSample;
 
 import org.springframework.data.annotation.Id;
 

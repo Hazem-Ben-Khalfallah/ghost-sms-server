@@ -1,4 +1,4 @@
-package hello;
+package com.blacknebula.springDataRestSample;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.repository.query.Param;
