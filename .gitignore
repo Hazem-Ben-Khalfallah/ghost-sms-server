@@ -1,12 +1,27 @@
-*.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+/data/
+target/
+coverage/
+.classpath
+.project
+.settings/
+.metadata/
+*.iml
+.idea
+.DS_Store
+logs/
+scripts/test-data/out/
+inland/data/
+inland/WebContent
+garland/src/main/webapp/public/*.json
+inland/src/main/webapp/public/*.json
+portland/src/main/webapp/public/*.json
+wonderland/src/main/webapp/public/*.json
+node_modules
+wonderland/.tern-project
+Servers
+*.idea/*
+wonderland/.idea/*
+.gitignore~
+aqualand/phantomjsdriver.log
+.scalastyle
+metastore_db
